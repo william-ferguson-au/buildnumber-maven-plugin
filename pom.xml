@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>buildnumber-maven-plugin</artifactId>
-  <version>1.4-only_run_once-201506-07</version>
+  <version>1.4-only_run_once-20150607</version>
   <packaging>maven-plugin</packaging>
 
   <name>Build Number Maven Plugin</name>
